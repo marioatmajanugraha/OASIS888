@@ -30,8 +30,8 @@ so if you want create multiple providers you need to put multiple proxy there.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/airdropinsiders/Oasis-Auto-Bot.git
-   cd Oasis-Auto-Bot
+   git clone https://github.com/marioatmajanugraha/OASIS888.git
+   cd OASIS888
    ```
 
 2. Install dependencies:
